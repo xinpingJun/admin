@@ -1,0 +1,34 @@
+{
+    "body": {
+        "total": 37,
+        "rows": [{
+            "compId": "",
+            "compName": "",
+            "createBy": "",
+            "createDate": "2018-12-13 13:43:02",
+            "createUserName": "",
+            "delFlag": "0",
+            "flowOverMsgModelList": [],
+            "id": "181212120420001801",
+            "intentInfo": "",
+            "isAgent": 0,
+            "isSms": 0,
+            "isSys": 0,
+            "overKeyword": "公司.*名字,什么公司,哪个公司,内个公司,名称,哪家.*公司",
+            "queueNum": "",
+            "relateFlowId": "",
+            "remarks": "",
+            "reply": "公司名称",
+            "replyMode": "1",
+            "replyStatus": "2",
+            "respTransferTo": "",
+            "sceneId": "181201204200000101",
+            "smsTemplate": "",
+            "title": "公司名称",
+            "type": "1",
+            "updateDate": null
+        }]
+    },
+    "code": "0",
+    "msg": "成功"
+}
